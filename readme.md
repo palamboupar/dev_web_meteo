@@ -15,6 +15,10 @@ Année universitaire : 2024–2025
 
 🔗 http://amael-paleologos.alwaysdata.net
 
+## Documentation du site
+
+🔗 https://amael-paleologos.alwaysdata.net/doc/
+
 ## 📌 Objectif du projet
 
 Créer un site web dynamique permettant à un utilisateur de :
